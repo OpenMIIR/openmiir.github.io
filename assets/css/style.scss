@@ -1,0 +1,20 @@
+---
+---
+
+@import "jekyll-theme-slate";
+#header_wrap .inner { padding: 0px; }
+#header_wrap .inner #header_img {
+  position: relative;
+  margin: 0 auto;
+  xmax-width: 739px;
+  max-width: 640px;
+  padding: 0px;
+  margin: 0px;
+  border: 0px;
+
+  box-shadow: 0 0 0px #ebebeb;
+  -webkit-box-shadow: 0 0 0px #ebebeb;
+  -moz-box-shadow: 0 0 0px #ebebeb;
+  -o-box-shadow: 0 0 0px #ebebeb;
+  -ms-box-shadow: 0 0 0px #ebebeb;
+}
